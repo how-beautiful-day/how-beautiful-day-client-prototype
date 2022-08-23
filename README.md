@@ -6,6 +6,9 @@
 </div>
 
 # :wave: How beautiful day!
+- **[원본(200일 같은 100일 선물) GitHub 바로 가기](https://github.com/kavoom2/ms-choi-popupbook)**
+- **[원본 팝업북 보러 보기](https://hey-ms-choi.com)**
+
 
 ## 기술 스택
 
